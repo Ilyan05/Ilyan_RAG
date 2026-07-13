@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+huggingface-hub
+python-dotenv
+pypdf
+docx2txt
+google-genai
+langchain-experimental
+sentence-transformers
